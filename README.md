@@ -45,3 +45,9 @@ java Main
 ## Nota
 
 Las tareas solo se guardan mientras el programa está abierto. Al cerrarlo, se pierden.
+
+## actualizacion 1 
+
+El código original no tenía clase tarea, así que seguí con arrays, aunque una clase habría hecho más fácil añadir el campo prioridad.
+
+El tamaño fijo es una limitación heredada del original; no la toqué porque no formaba parte de las historias de usuario pedidas.
